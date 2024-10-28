@@ -1,3 +1,3 @@
-#This is my new repo.\
-git#This is my new file.
-
+# This is my new repo.\v
+This is my new file.
+clear
